@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<!--
-**ngangiang2610/ngangiang2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Giang** and I'm new to Github. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- 🔭 I’m currently working on ... 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +10,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning `how to use Github`.
+
+> Do small things with great love.
+> Growth requires patience, isolation and sacrifice.
+
+> A lot of things in life require solitude.
+> Healing and growth are two of them.
+
